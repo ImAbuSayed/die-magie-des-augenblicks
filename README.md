@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/die-magie-des-augenblicks/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Die Magie des Augenblicks](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-magie-des-augenblicks/) |
+| **Get License** | [Get License For Die Magie des Augenblicks](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-magie-des-augenblicks/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Deine Blicke treffen mich wie Blitzlicht in der Nacht.. yeah..
+> Die Stadt ist wach, doch du hast mich um den Verstand gebracht
+> Komm, steig ein, wir jagen durch die City, ride or die
+> Nur wir zwei, Baby, dieser Vibe ist so wild, so high
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
