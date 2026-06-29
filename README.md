@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/die-magie-des-augenblicks/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Die Magie des Augenblicks](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-magie-des-augenblicks/) |
+| **Get License** | [Secure Licensing Rights for Die Magie des Augenblicks](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-magie-des-augenblicks/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6ee279b6b05be68a2eac22420eeb3b654c8a1ad64be962b7b446c7e876c2c0d6` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
